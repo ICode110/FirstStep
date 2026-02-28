@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FirstStep
+namespace Step001
 {
     // 1. 定义自定义异常类
     public class InvalidOperatorException : Exception

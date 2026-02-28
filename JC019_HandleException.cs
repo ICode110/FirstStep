@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FirstStep
+namespace Step001
 {
     internal class JC019_HandleException
     {
